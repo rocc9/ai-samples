@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RNNAssignment", "RNNAssignment\RNNAssignment.pyproj", "{CDF37A4D-4D47-4218-9794-12F467F07503}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDF37A4D-4D47-4218-9794-12F467F07503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF37A4D-4D47-4218-9794-12F467F07503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8383968-7660-4AE9-AA55-E713E8DB0C4D}
+	EndGlobalSection
+EndGlobal
